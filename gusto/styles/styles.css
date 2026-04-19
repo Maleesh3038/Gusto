@@ -340,4 +340,13 @@
   font-size: 24px;
 }
 
+/* mopile view */
+@media (max-width: 1100px) {
+  .hamburger {
+    display: flex;
+  }
+
+  .nav-links {
+    display: none;
+  }
 
